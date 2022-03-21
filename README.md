@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykli109
 - 📫 ykli109@outlook.com
 - 🖥 [liyunkun.com](http://liyunkun.com) | [practices.liyunkun.com](http://practices.liyunkun.com) | [book.liyunkun.com](http://book.liyunkun.com)
-- 📝 https://www.cnblogs.com/ykli
+- 📝 [博客园](https://www.cnblogs.com/ykli) | [语雀](https://www.yuque.com/liyunkun)
 - 👀 To be continued!
