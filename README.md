@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykli109
 - 📫 ykli109@outlook.com
-- 🖥 [practices.liyunkun.com](http://practices.liyunkun.com) | [book.liyunkun.com](http://book.liyunkun.com) ｜ [liyunkun.com](http://liyunkun.com)
+- 🖥 [t3techs.com](https://t3techs.com) | [itrae-web.t3techs.com](https://itrade-web.t3techs.com) 
 - 📝 [博客园](https://www.cnblogs.com/ykli) | [语雀](https://www.yuque.com/liyunkun)
 - 👀 To be continued!
